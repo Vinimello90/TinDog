@@ -1,13 +1,21 @@
 # Tin Dog
 
-Esta é uma landing page do Tinder para cachorros, desenvolvida utilizando HTML, CSS e Bootstrap. Adicionei os snippets para inserir os elementos na página e personalizar o conteúdo, ajustando o layout e os estilos. Foi adicionada uma animação em gradiente no fundo. A página é dividida em seções, incluindo um botão para baixar o app na loja, funcionalidades, avaliações de usuários e planos de assinatura.
+O **Tin Dog** é uma landing page inspirada no Tinder, mas voltada para cachorros. Foi desenvolvida utilizando **HTML**, **CSS** e **Bootstrap**, com o objetivo de praticar o uso desse framework responsivo para criação de layouts modernos e adaptáveis a diferentes dispositivos.
 
-<p align="center"><img src="./images/tindog-screenshot.png" alt="captura de tela do projeto tindog" width=40% ></p>
+<img src="./images/tindog-screenshot.png" alt="Captura de tela do projeto Tin Dog" width="40%" />
 
-Para ver o projeto em execução clique <a href="https://vinimello90.github.io/TinDog/">aqui</a>.
+Você pode visualizar o projeto em funcionamento clicando [aqui](https://vinimello90.github.io/TinDog/).
 
-## Recursos do projeto
+## Recursos do Projeto
 
-- HTML5
-- CSS
-- bootstrap
+- Bootstrap
+
+## Descrição das Tecnologias e Técnicas Utilizadas
+
+### Bootstrap
+
+O **Bootstrap** foi fundamental para este projeto, pois possibilitou a criação de um layout responsivo e consistente com o uso de **grades** e **componentes prontos**. Utilizando a **grid system** do Bootstrap, organizei os elementos da página para que se ajustassem automaticamente a diferentes tamanhos de tela, desde dispositivos móveis até desktops maiores.
+
+Com o uso de **classes utilitárias** do Bootstrap, consegui rapidamente aplicar estilos como margens, paddings, alinhamentos e centralizações. Além disso, utilizei os **componentes prontos**, facilitando a implementação sem a necessidade de escrever todo o código do zero.
+
+A responsividade foi garantida por meio das **media queries** integradas ao Bootstrap, permitindo que o layout se ajuste adequadamente em telas pequenas (como smartphones) até telas grandes (como desktops). As classes de layout, como `col-md`, `col-sm`, e `container`, foram essenciais para garantir que os elementos se reorganizassem de forma fluida.
