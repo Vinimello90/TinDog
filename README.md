@@ -4,7 +4,7 @@ O **Tin Dog** é uma landing page inspirada no Tinder, mas voltada para cachorro
 
 <p align=center><img src="./images/tindog-screenshot.png" alt="Captura de tela do projeto Tin Dog" width="40%" />
 
-Você pode visualizar o projeto em funcionamento clicando [aqui](https://vinimello90.github.io/TinDog/). </p>
+Você pode visualizar o projeto em funcionamento clicando [aqui](https://vinimello90.github.io/TinDog/).</p>
 
 ## Recursos do Projeto
 
